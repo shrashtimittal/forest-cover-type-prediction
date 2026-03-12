@@ -130,9 +130,7 @@ forest-cover-type-prediction
 ├── .gitignore
 └── README.md
 
----
-
-# ⚙️ Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -141,31 +139,31 @@ git clone https://github.com/shrashtimittal/forest-cover-type-prediction.git
 cd forest-cover-type-prediction
 Install dependencies:
 pip install -r requirements.txt
+
 ---
 
 # ▶️ Running the Project
 
 Train the model:
-
-```bash
 python src/model_xgboost.py
 Run predictions:
 python src/predict_sample.py
 Run the application:
 python src/app.py
----
-
-## 🚀 Future Improvements
-
-- Deploy the model using **Streamlit**
-- Improve feature engineering
-- Apply **deep learning models**
-- Add model explainability using **SHAP values**
 
 ---
 
-## 👩‍💻 Author
+# 🚀 Future Improvements
 
-**Shrashti Mittal**
+1. Deploy the model using Streamlit
+2. Improve feature engineering
+3. Apply deep learning models
+4. Add model explainability using SHAP values
+
+---
+
+# 👩‍💻 Author
+
+Shrashti Mittal
 
 AI • Machine Learning • Aerospace Systems • Quantum Computing
