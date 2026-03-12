@@ -138,7 +138,8 @@ Clone the repository:
 git clone https://github.com/shrashtimittal/forest-cover-type-prediction.git
 cd forest-cover-type-prediction
 Install dependencies:
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ---
 
